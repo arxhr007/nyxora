@@ -1,0 +1,56 @@
+{
+  "name": "nyxora",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "axios": "^1.8.2",
+    "cors": "^2.8.5",
+    "cra-template": "1.2.0",
+    "express": "^4.21.2",
+    "@vercel/blob": "^0.27.3",
+    "firebase": "^11.1.0",
+    "firebase-admin": "^13.0.2",
+    "lucide-react": "^0.479.0",
+    "path": "^0.12.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^7.0.2",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.9.0",
+    "recharts": "^2.15.1",
+    "tailwindcss": "^3.4.16",
+    "web-vitals": "^4.2.4",
+    "yocto-queue": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
